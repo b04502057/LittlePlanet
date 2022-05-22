@@ -1,0 +1,14 @@
+#que {
+    width: 100%;
+    text-align: center;
+  }
+
+#show {
+    display:none;
+    width:100%;
+    text-align: center;
+}
+
+#c{
+    max-width: 10%;
+}
